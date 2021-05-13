@@ -17,7 +17,6 @@ const submitTodoHandler = (e) => {
 
 const statusHandler = (e) => {
   setStatus(e.target.value)
-  
 }
   return (
     <form>
